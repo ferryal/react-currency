@@ -1,5 +1,5 @@
 const Config = {
-    apiUrl: 'https://api.exchangeratesapi.io',
+    apiUrl: 'http://api.exchangeratesapi.io',
     baseCurrency: 'USD',
     accessKey: 'e9b574d4790b0a8cb8c21b9d85b84878'
 };
